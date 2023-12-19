@@ -1,12 +1,12 @@
 Western Blotting Workflow:
 
-## Day 1:
+# Day 1:
 
 Grow overnights of strains, 3mL per strain is sufficient.
 
-## Day 2:
+# Day 2:
 
-# Prepping Samples:
+## Prepping Samples:
 
 Chemical Prep: 
 1.	Add ß-mercaptoethanol to an aliquot of 2X Laemmli loading buffer at a ratio of 50uL to 950uL 2X Laemmli. (In fume hood)
@@ -29,7 +29,7 @@ Sample prep:
 Notes:
 * If your strain of interest does not pellet well, you may need to increase the speed or time of centrifugation.
 
-# Protein Immunoblotting:
+## Protein Immunoblotting:
 
 Chemical/Equipment Prep: 
 
@@ -51,7 +51,7 @@ Chemical/Equipment Prep:
 
 Note: If you are only running one gel, you need to have it in the back of the tank, prongs can’t be in the front.
 
-# Running the SDS-PAGE gel:
+## Running the SDS-PAGE gel:
 
 1.	Load the first lane with 5uL Thermo Scientific™ PageRuler™ Prestained 10-180kDa Protein Ladder.
 2.	Transfer 20uL of each sample to respective gel lane (This can be optimized)
@@ -61,7 +61,7 @@ Note: If you are only running one gel, you need to have it in the back of the ta
 6.	Take gel to the gel doc, make a DI water puddle and rest gel on that, then image with the UV-Stain free option. **Record the exposure time noted in image settings**
 7.	Rig buffer can be dumped down the drain.
 
-# Running the Immunoblot:
+## Running the Immunoblot:
 
 Chemical Prep: 
 
@@ -95,9 +95,9 @@ Immunoblot:
 	* Make a DI H2O puddle, then lay the membrane down with protein side UP. Image using the exposure time used with the gel, then immediately proceed with Step 11. 
 11.	Block membrane overnight in 50mL of 5% non-fat milk (50mL 1X TBS-T, 2.5g Non-fat milk), make sure to put in the membrane with the side touch the gel facing up. Use square containers with lid, store at 4˚C. 
 
-## Day 3:
+# Day 3:
 
-# Staining the Immunoblot:
+## Staining the Immunoblot:
 
 Chemical Prep: (You will need to optimize your antibody dilutions based on your results.)
 
@@ -119,7 +119,7 @@ Anti-RpoA Mouse IgG - 500 µg/mL | 2 uL
 
 During wash steps, prepare the secondary antibody solution:
 
-** Fluorescent Westerns: ** 
+## Fluorescent Westerns: 
 
 Secondary Antibody solution: (You will need to optimize your antibody dilutions based on your results.)
 Reagent | Volume/mass
@@ -138,7 +138,7 @@ Secondary Antibody is light sensitive, so keep it in a foil wrapper after prep. 
 11. Repeat Step 7 using 1X TBS instead of 1X TBS-T. (In different bucket)
 12. Transfer membrane protein side up to a pre-prepped transfer setup (foil for covering gel from light, and a Saranwrap layer on top of the foil for allowing the membrane to sit on. Pull saranwrap over top of the membrane ensuring that wrinkles and bubbles are kept to a minimum. Fold foil over the whole thing to protect the membrane from light while transferring to LiCor. Note: I did this step with the lab lights off and it turned out really good, maybe do this in a dark room/dark space?
 
-# Chemiluminescent Westerns:
+## Chemiluminescent Westerns:
 
 Secondary Antibody solution: 
 Reagent | Volume/mass
@@ -157,7 +157,7 @@ Secondary Antibody is light sensitive, so keep it in a foil wrapper after prep. 
 11. Transfer membrane to a new clean bucket. Apply all 6mL of the SuperSignal mix to protein side of membrane by gently dropping all over the membrane, allow to sit for 5 minutes. (Do this in a darker room or under foil)
 12. Transfer membrane protein side up to a pre-prepped transfer setup (foil for covering gel from light, and a Saranwrap layer on top of the foil for allowing the membrane to sit on. Pull saranwrap over top of the membrane ensuring that wrinkles and bubbles are kept to a minimum. Fold foil over the whole thing to protect the membrane from light while transferring to LiCor. Note: I did this step with the lab lights off and it turned out really good, maybe do this in a dark room/dark space?
 
-# Imaging the Immunoblot:
+## Imaging the Immunoblot:
 
 1.  Take membrane in wrappings down to 3rd floor core room. LiCor is immediately to the right in the dark room. Login information should be on a post-it by the monitor.
 2. Open the orange image study app (in the bottom taskbar)
@@ -170,7 +170,7 @@ Secondary Antibody is light sensitive, so keep it in a foil wrapper after prep. 
 * DO NOT FORGET TO EXPORT THE IMAGE STUDIO FILE.
 9. Save on a USB
 
-## Appendix 1: Total Protein Staining with LI-COR Revert 700 Dye
+# Appendix 1: Total Protein Staining with LI-COR Revert 700 Dye
 * This method is an alternative to using Stain-free gels and allows you to measure total protein levels on the same LI-COR machine as you use for final visualization. You can use this dye with IR-Dye 680RD (700nm) and 800CW (800nm) secondary antibodies, but you will need to destain the membrane before putting it into the overnight blocking step. This stain uses very little stain and wash solution volumes from a kit, so baggies are needed to keep the membrane in contact with solutions.
 1. After completing the transfer process, immediately transfer the clipped membrane (protein side up) onto a dry piece of filter paper. Incubate at RT for 1 hour to dry the membrane.
 2. After allowing the membrane to dry, wet the membrane with 100% methanol as you did originally, for 30 s. 
