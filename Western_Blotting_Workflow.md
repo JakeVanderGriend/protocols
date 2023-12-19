@@ -36,7 +36,7 @@ Chemical/Equipment Prep:
 1. Prepare 1X Tris/Glycine/SDS “Running” buffer, set aside.
 * Running 1-2 gels: Make 750mL 1X Running buffer: 75mL of 10x stock in 675mL of DI H2O
 * Running 3-4 gels: Make 1250mL 1X Running buffer: 125mL of 10x stock in 1125mL of DI H2O
-  
+
 1. Setup gel rig apparatus:
 * Unpackage gel - remove green strip from base and remove comb (Select your gel depending on the size of your protein. Ex: VF_2432 is ~19 kDa, so use a 4-20% gel) (https://github.com/mjmlab/protocols/blob/master/sds-page.md#gel) 
 * Set up gel in electrode assembly.
