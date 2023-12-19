@@ -1,12 +1,12 @@
 ## Western Blotting Workflow:
 
-# Day 1:
+## Day 1:
 
 Grow overnights of strains, 3mL per strain is sufficient.
 
-# Day 2:
+## Day 2:
 
-Prepping Samples:
+# Prepping Samples:
 
 Chemical Prep: 
 1.	Add ß-mercaptoethanol to an aliquot of 2X Laemmli loading buffer at a ratio of 50uL to 950uL 2X Laemmli. (In fume hood)
@@ -95,7 +95,7 @@ Immunoblot:
 	* Make a DI H2O puddle, then lay the membrane down with protein side UP. Image using the exposure time used with the gel, then immediately proceed with Step 11. 
 11.	Block membrane overnight in 50mL of 5% non-fat milk (50mL 1X TBS-T, 2.5g Non-fat milk), make sure to put in the membrane with the side touch the gel facing up. Use square containers with lid, store at 4˚C. 
 
-# Day 3:
+## Day 3:
 
 # Staining the Immunoblot:
 
