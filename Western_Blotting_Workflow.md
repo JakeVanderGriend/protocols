@@ -116,8 +116,7 @@ Loading control Anti-RpoA Mouse IgG - 500 µg/mL | 2 uL (See note below on multi
 3. Repeat Step 2. (In same bucket)
 4. Repeat Step 2. (In same bucket)
 5. Repeat Step 2. (In same bucket)
-
-During wash steps, prepare the secondary antibody solution:
+6. During wash steps, prepare the secondary antibody solution:
 
 ## Fluorescent Westerns: 
 
@@ -148,14 +147,14 @@ Non-fat milk | 0.05g
 Pierce Goat Anti-Rabbit HRP – 400 µg/mL | 2uL 
 
 Secondary Antibody is light sensitive, so keep it in a foil wrapper after prep. (I prepared this solution ~3 min before use)
-6. Transfer membrane to pouch, and add 10mL secondary antibody solution over the protein side. Rock for exactly 1 hour at room temperature in a FOIL WRAP.
-7. Remove from pouch and transfer to 50mL 1X TBS-T buffer in a new tip box with a foil covered top protein side up. Rock 15min, then dump wash buffer.
-8. Repeat Step 7. (In same bucket)
+7. Transfer membrane to pouch, and add 10mL secondary antibody solution over the protein side. Rock for exactly 1 hour at room temperature in a FOIL WRAP.
+8. Remove from pouch and transfer to 50mL 1X TBS-T buffer in a new tip box with a foil covered top protein side up. Rock 15min, then dump wash buffer.
 9. Repeat Step 7. (In same bucket)
 10. Repeat Step 7. (In same bucket)
-10A. Shortly (3 min before use), mix 3mL of both Thermo Fisher SuperSignal West Dura Extended Duration Substrate solutions in a foiled conical tube.
-11. Transfer membrane to a new clean bucket. Apply all 6mL of the SuperSignal mix to protein side of membrane by gently dropping all over the membrane, allow to sit for 5 minutes. (Do this in a darker room or under foil)
-12. Transfer membrane protein side up to a pre-prepped transfer setup (foil for covering gel from light, and a Saranwrap layer on top of the foil for allowing the membrane to sit on. Pull saranwrap over top of the membrane ensuring that wrinkles and bubbles are kept to a minimum. Fold foil over the whole thing to protect the membrane from light while transferring to LiCor. Note: I did this step with the lab lights off and it turned out really good, maybe do this in a dark room/dark space?
+11. Repeat Step 7. (In same bucket)
+12. Shortly (3 min before use), mix 3mL of both Thermo Fisher SuperSignal West Dura Extended Duration Substrate solutions in a foiled conical tube.
+13. Transfer membrane to a new clean bucket. Apply all 6mL of the SuperSignal mix to protein side of membrane by gently dropping all over the membrane, allow to sit for 5 minutes. (Do this in a darker room or under foil)
+14. Transfer membrane protein side up to a pre-prepped transfer setup (foil for covering gel from light, and a Saranwrap layer on top of the foil for allowing the membrane to sit on. Pull saranwrap over top of the membrane ensuring that wrinkles and bubbles are kept to a minimum. Fold foil over the whole thing to protect the membrane from light while transferring to LiCor. Note: I did this step with the lab lights off and it turned out really good, maybe do this in a dark room/dark space?
 
 ## Imaging the Immunoblot:
 
@@ -164,25 +163,24 @@ Secondary Antibody is light sensitive, so keep it in a foil wrapper after prep. 
 3. Select your profile (if you do not have one, make one and make sure you set it to always use the Odyssey FC)
 4. Load membrane into the LiCor (take the Saranwrapped membrane out of the foil and center it on  the loading tray. (DO NOT REMOVE FROM SARANWRAP).
 5. For dual color fluorescence westerns, turn on the 700 and 800 channels. (You don’t need Chemi or 600). For chemiluminescent westerns, use chemi for the sample and 700 to visualize the ladder.
-6. Do a first quick imaging using 30s exposure for 700 & 800 channels
+6. Do a first quick imaging using 30s exposure for both channels
 7. Do a higher detail imaging using longer 2-5 min exposure for both channels. 
 8. Tweak brightness then save a .png and export the image studio file .zip.
 * DO NOT FORGET TO EXPORT THE IMAGE STUDIO FILE.
 9. Save on a USB
 
 # Appendix 1: Total Protein Staining with LI-COR Revert 700 Dye
-* This method is an alternative to using Stain-free gels and allows you to measure total protein levels on the same LI-COR machine as you use for final visualization. You can use this dye with IR-Dye 680RD (700nm) and 800CW (800nm) secondary antibodies, but you will need to destain the membrane before putting it into the overnight blocking step. This stain uses very little stain and wash solution volumes from a kit, so baggies are needed to keep the membrane in contact with solutions.
+* This method is an alternative to using Stain-free gels and allows you to measure total protein levels on the same LI-COR machine as you use for final visualization. You can use this dye with IR-Dye 680RD (700nm) and 800CW (800nm) secondary antibodies, but you will need to destain the membrane before putting it into the overnight blocking step. This protocol uses very little stain and wash solution volumes from a kit, so pouches are needed to keep the membrane in contact with solutions.
 1. After completing the transfer process, immediately transfer the clipped membrane (protein side up) onto a dry piece of filter paper. Incubate at RT for 1 hour to dry the membrane.
-2. After allowing the membrane to dry, wet the membrane with 100% methanol as you did originally, for 30 s. 
+2. After allowing the membrane to dry, wet the membrane with 100% methanol in a square plastic bin, for 30 s. 
 3. Transfer rehydrated membrane to a wash bin, and wash with 50mL 1X TBS, 5 min with rocking.
-4. Briefly swish the membrane in Ultra pure water (Cayman Chemical NC9543422) in a bin, then transfer to a baggie (similarily to antibody staining, however you will want larger corners on your baggies).
-5. Add 5mL stain to protein side of membrane, and seal baggies, rock in foil for 5 minutes.
-6. Snip a corner (larger baggies are better than smaller baggies, and decant out the stain solution into a waste bin.
-* (larger baggies are better than smaller baggies
-* All waste gets diluted down the drain with lots of tap water
+4. Briefly swish the membrane in Ultra pure water (Cayman Chemical NC9543422) in a bin, then transfer to a pouch (similarily to antibody staining, however you will want larger corners on your pouch).
+5. Add 5mL stain to protein side of membrane, and seal pouch, rock in foil for 5 minutes.
+6. Snip a corner (larger pouches are better than smaller pouches) and decant out the stain solution into a waste bin.
+* All waste gets diluted down the drain with lots of tap water.
 7. Using a serological pipette, transfer in 5mL of wash solution into the hole you snipped in Step 6, over the protein side of the membrane. Reseal and rock for 30s in foil.
 8. Snip open another corner, and decant out the wash solution, repeat step 7.
-9. Rinse the membrane briefly with ultra pure water, then load into saran-wrap/foil packets and image on the 3rd floor LI-COR using the 700 channel. 
+9. Remove membrane from pouch, and rinse the membrane briefly with ultra pure water in a bin, then load into saran-wrap/foil packets and image on the 3rd floor LI-COR using the 700 channel. 
 * In the past, 30s was enough to visualize samples, but you may need to change this depending on signal.
-10. If using an IR-Dye 680RD secondary, you will need to follow the destaining protocol in the kit, once again using a baggie for the destaining solution.
+10. If using an IR-Dye 680RD secondary, you will need to follow the destaining protocol in the kit, once again using a pouch for the destaining solution.
 11. Immediately return membranes to the lab, and place them in the overnight blocking buffer as in Step 11 of the Immunoblot.
