@@ -72,10 +72,10 @@ NOTE: If running more than 2 transfers, you need another rig and 1.25L more Tran
 
 Immunoblot:
 
-1.	After imaging gel, transfer into a clear plastic square dish with transfer buffer, allow to sit for 15 minutes (Do this immediately after imaging to keep the gel from drying out).
-2.	In another plastic dish soak the two black sponge pieces and 2 pieces of filter paper in transfer buffer. (for about 15 minutes as well)
-3.	Wet membrane in a little bit of 100% methanol (should appear wet and not separated from surrounding methanol for 1-2 minutes before assembling the sandwich. 
-4.	Briefly swish the membrane in transfer buffer in one of the bins before use.
+1.	After imaging gel, transfer into a clear plastic square dish half-filled with transfer buffer, allow to sit for 15 minutes (Do this immediately after imaging to keep the gel from drying out).
+2.	In another plastic dish soak the two black sponge pieces and 2 pieces of filter paper in a bin half-filled with transfer buffer. (for about 15 minutes as well)
+3.	Wet membrane in a little bit of 100% methanol for 1-2 minutes before assembling the sandwich. 
+4.	Briefly swish the membrane in transfer buffer in one of the bins before use, the membrane should be able to rest in the bin and not float on the surface.
 5.	Once everything has finished soaking, its sandwich time:
 	* Get one of the transfer apparatuses (white and black swiss cheese looking thing), and place black side on the bench on a bunch of paper towels.
 	* Place on one black sponge
@@ -84,7 +84,7 @@ Immunoblot:
 	* Using forceps at the far right side and the smallest contact with a finger on the bottom left side, apply the membrane to the gel in one swift motion. DO NOT MOVE THE MEMBRANE AFTER IT IS DOWN.
 	* Add another piece of filter paper on top of membrane and roll to remove bubbles (Roll in short movements across and up and down across the top filter paper.)
 	* Add another sponge on top of that
-	* At any of the above steps, it can help to wet the components by dumping on transfer buffer.
+	* At any of the above steps, it can help to wet the components by dumping on (a little) transfer buffer.
 6.	Fold the clear section over the top of the sandwich and hold over the rig, then push clasp on and secure the transfer apparatus
 7.	Put transfer apparatus into one of the red and black transfer setups in the rig (red side with red side, black with black)
 8.	Black plate of sandwich faces black face of transfer setup, clear side faces the red side. Put the iceblock into the empty section. Fill rig with transfer buffer and close lid. Note: You will need the transfer buffer from your bins to fill up to the line. (Buffer can be kept in the 4C prior to use, probably want to fill the rig in the cold room cause it will be heavy)
