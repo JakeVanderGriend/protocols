@@ -107,9 +107,9 @@ Reagent | Volume/mass
 1X TBS-T | 10 mL
 Non-fat milk | 0.05 g
 Anti-target AB | X uL (Manufactuer forms have recommended dilutions)
-Anti-RpoA Mouse IgG - 500 µg/mL | 2 uL  
+Loading control Anti-RpoA Mouse IgG - 500 µg/mL | 2 uL (See note below on multiplexing antibodies)
 
-* Make sure primary is NOT the same species IgG
+* You can only use both primary antibodies (multiplex) if you are using fluorescent secondary antibodies. If you plan to use a chemiluminescent secondary antibody you will need to strip the membrane between primary antibodies. Additionally, make sure primary antibodies are NOT the same species IgG if you are multiplexing.
   
 1. Transfer membrane from O/N blotting solution to a pouch and add 10mL of primary antibody to the protein side. Rock at room temperature, 1 hour exactly. The protein side should be facing up in the pouch when you set it on the rocker.
 2. Transfer the membrane to an empty tip box with 50mL 1X TBS-T, rock 15min, dump wash buffer in the sink. (Use forceps to prevent the membrane from falling out of the tip box)
