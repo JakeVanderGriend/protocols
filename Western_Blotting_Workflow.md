@@ -67,7 +67,7 @@ Chemical Prep:
 
 While SDS-PAGE is running, prepare 1.25L of Transfer buffer:
 * For 1.25L Transfer Buffer: 125 ml 10x Tris/Glycine buffer, 250 ml methanol, and 875 ml DI water 
-
+* Place in cold room before use.
 NOTE: If running more than 2 transfers, you need another rig and 1.25L more Transfer buffer.
 
 Immunoblot:
@@ -89,11 +89,11 @@ Immunoblot:
 7.	Put transfer apparatus into one of the red and black transfer setups in the rig (red side with red side, black with black)
 8.	Black plate of sandwich faces black face of transfer setup, clear side faces the red side. Put the iceblock into the empty section. Fill rig with transfer buffer and close lid. Note: You will need the transfer buffer from your bins to fill up to the line. (Buffer can be kept in the 4C prior to use, probably want to fill the rig in the cold room cause it will be heavy)
 9.	Plug rig into power supply in cold room, run at 100V for 30mins.
-10.	When finished, disassemble the sandwich and clip one end of the membrane with scissors so you know the orientation of your samples.
+10.	When finished, disassemble the sandwich. The side of the membrane touching the gel is the PROTEIN SIDE. Clip one corner of the membrane with scissors so you know the orientation of your samples.
 * For testing transfer, clean the GelDoc Stain-free tray surface 2X with 70% EtOH
 	* Select ‘Stain-free’ gel, then select the imaging menu, and set ‘Activation time’ to None, and use the manual exposure time to match the gel exposure time.
 	* Make a DI H2O puddle, then lay the membrane down with protein side UP. Image using the exposure time used with the gel, then immediately proceed with Step 11. 
-11.	Block membrane overnight in 50mL of 5% non-fat milk (50mL 1X TBS-T, 2.5g Non-fat milk), make sure to put in the membrane with the side touch the gel facing up. Use square containers with lid, store at 4˚C. 
+11.	Block membrane overnight in 50mL of 5% non-fat milk (50mL 1X TBS-T, 2.5g Non-fat milk), make sure to put in the membrane with the protein side up. Use square containers with lid, store at 4˚C. 
 
 # Day 3:
 
