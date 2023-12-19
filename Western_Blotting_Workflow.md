@@ -1,4 +1,4 @@
-## Western Blotting Workflow:
+Western Blotting Workflow:
 
 ## Day 1:
 
