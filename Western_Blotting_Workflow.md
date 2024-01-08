@@ -1,4 +1,4 @@
-# Western Blotting Workflow:
+## Western Blotting Workflow:
 
 The purpose of this document is to provide a walkthrough of all steps needed to conduct immunoblotting with liquid bacterial cultures. This protocol has been tested with *Vibrio fischeri*, modifications may be needed for different species.
 
@@ -8,6 +8,7 @@ The purpose of this document is to provide a walkthrough of all steps needed to 
 
 **[Recipies](#recipies)**
 
+**[Sample Preparations](#sample-preparations)
 
 # Supplies:
 
@@ -47,13 +48,13 @@ Amount | Reagent
 50 ml | 1x TBS-T
 2.5g | Non-fat powdered milk
 
+# Sample Preparations:
+
 **Day 1:**
 
 Grow overnights of strains, 3mL per strain is sufficient.
 
 **Day 2:**
-
-Prepping Samples:
 
 Chemical Prep: 
 1.	Add ß-mercaptoethanol to an aliquot of 2X Laemmli loading buffer at a ratio of 50uL to 950uL 2X Laemmli. (In fume hood)
