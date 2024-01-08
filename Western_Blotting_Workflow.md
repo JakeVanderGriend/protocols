@@ -4,9 +4,9 @@ The purpose of this document is to provide a walkthrough of all steps needed to 
 
 # Table of Contents:
 
-[Supplies](#Supplies:)
+[Supplies](#supplies)
 
-[Recipies](#Recipies:)
+[Recipies](#recipies)
 
 
 # Supplies:
