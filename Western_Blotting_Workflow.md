@@ -4,8 +4,9 @@ The purpose of this document is to provide a walkthrough of all steps needed to 
 
 # Table of Contents:
 
-![1. Supplies](**Supplies:**)
-![2. Recipies](**Recipies:**)
+[1. Supplies](**Supplies:**)
+
+[2. Recipies](**Recipies:**)
 
 
 **Supplies:**
