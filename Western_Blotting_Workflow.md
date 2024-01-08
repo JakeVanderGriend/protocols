@@ -1,12 +1,49 @@
-Western Blotting Workflow:
+# Western Blotting Workflow:
 
-# Day 1:
+The purpose of this document is to provide a walkthrough of all steps needed to conduct immunoblotting with liquid bacterial cultures. This protocol has been tested with *Vibrio fischeri*, modifications may be needed for different species.
+
+**Supplies & Recipies:**
+
+Item | Supplier | Item #
+----|----|----
+2X Laemmli Buffer | Biorad | 1610737
+10x Tris/Glycine/SDS Buffer | Biorad | 1610772
+10x Tris/Glycine Buffer | Biorad | 1610734
+PageRuler Prestained 10-180 kDa Protein Ladder | Thermo | 26616
+Immun-Blot Low Fluorescence PVDF/Filter Paper Sets (Pkg of 20, 0.45 µm, 7 x 8.5 cm) | Biorad | 1620261
+Thermo Fisher SuperSignal West Dura Extended Duration Substrate | Thermo | PIA34075
+Ultrapure Water | Cayman Chemical | NC9543422
+
+10X TBS Buffer
+Amount | Reagent
+----|----
+24 g | Tris-HCL
+5.6 g | Tris base
+88 g | NaCl
+1 L | H2O
+
+pH should be 7.6
+
+1x TBS-T:
+Amount | Reagent
+----|----
+100 ml | 10x TBS
+900 ml | DI H2O
+1 ml | Tween-20
+
+Blocking Buffer:
+Amount | Reagent
+----|----
+50 ml | 1x TBS-T
+2.5g | Non-fat powdered milk
+
+**Day 1:**
 
 Grow overnights of strains, 3mL per strain is sufficient.
 
-# Day 2:
+**Day 2:**
 
-## Prepping Samples:
+Prepping Samples:
 
 Chemical Prep: 
 1.	Add ß-mercaptoethanol to an aliquot of 2X Laemmli loading buffer at a ratio of 50uL to 950uL 2X Laemmli. (In fume hood)
