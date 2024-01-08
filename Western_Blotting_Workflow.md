@@ -9,7 +9,7 @@ The purpose of this document is to provide a walkthrough of all steps needed to 
 [Recipies](#Recipies:)
 
 
-#Supplies:
+# Supplies:
 
 Item | Supplier | Item #
 ----|----|----
@@ -21,7 +21,7 @@ Immun-Blot Low Fluorescence PVDF/Filter Paper Sets (Pkg of 20, 0.45 µm, 7 x 8.5
 Thermo Fisher SuperSignal West Dura Extended Duration Substrate | Thermo | PIA34075
 Ultrapure Water | Cayman Chemical | NC9543422
 
-#Recipies:
+# Recipies:
 
 10X TBS Buffer
 
