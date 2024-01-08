@@ -2,7 +2,13 @@
 
 The purpose of this document is to provide a walkthrough of all steps needed to conduct immunoblotting with liquid bacterial cultures. This protocol has been tested with *Vibrio fischeri*, modifications may be needed for different species.
 
-**Supplies & Recipies:**
+# Table of Contents:
+
+![1. Supplies](**Supplies:**)
+![2. Recipies](**Recipies:**)
+
+
+**Supplies:**
 
 Item | Supplier | Item #
 ----|----|----
@@ -14,7 +20,10 @@ Immun-Blot Low Fluorescence PVDF/Filter Paper Sets (Pkg of 20, 0.45 µm, 7 x 8.5
 Thermo Fisher SuperSignal West Dura Extended Duration Substrate | Thermo | PIA34075
 Ultrapure Water | Cayman Chemical | NC9543422
 
+**Recipies:**
+
 10X TBS Buffer
+
 Amount | Reagent
 ----|----
 24 g | Tris-HCL
