@@ -8,7 +8,7 @@ The purpose of this document is to provide a walkthrough of all steps needed to 
 
 **[Recipies](#recipies)**
 
-**[Sample Preparations](#sample-preparations)
+**[Sample Preparations](#sample-preparations)**
 
 # Supplies:
 
