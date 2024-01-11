@@ -12,15 +12,15 @@ The purpose of this document is to provide a walkthrough of all steps needed to 
 
 **[Gel Preparations](#gel-preparations)**
 
-**[Running the SDS-PAGE gel:](#running-the-sds-page-gel)**
+**[Running the SDS-PAGE Gel](#running-the-sds-page-gel)**
 
-**[Running the Transfer:](#running-the-transfer)**
+**[Running the Transfer](#running-the-transfer)**
 
-**[Staining the Immunoblot:](#staining-the-immunoblot)**
+**[Staining the Immunoblot](#staining-the-immunoblot)**
 
-**[Signal Detection:](#signal-detection)** 
+**[Signal Detection](#signal-detection)** 
 
-**[Imaging:](#imaging)**
+**[Imaging](#imaging)**
 
 **[Appendix 1: Total Protein Staining with LI-COR Revert 700 Dye](#appendix-1:-total-protein-staining-with-li-cor-revert-700-dye)**
 
