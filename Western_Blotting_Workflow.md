@@ -188,7 +188,7 @@ Loading control Anti-RpoA Mouse IgG - 500 µg/mL | 2 uL (See note below on multi
 
 Western blots can treated for signal detection in two ways, fluorescence and chemiluminescence. Fluorescence methods rely on secondary antibodies conjugated to a fluorophore, with the possibility of multiplexing (multiple secondary antibodies) different fluorophores for different targets simultaneously. The second method, chemiluminescence, relies on a secondary antibody conjugated to horseradish peroxidase (HRP) which reacts with a provided substrate to enable signal detection. Overall, the chemiluminescence method is more sensitive for signal detection, but quantification of the output signal can be challenging compared to fluorescence methods. Chemiluminescencent secondary antibodies also can never be multiplexed with fluorescence or other HRP secondary antibodies, and the immunoblot must be destained between each secondary antibody if you are testing for different targets.
 
-**Fluorescence Detection:**
+### Fluorescence Detection:
 
 Secondary Antibody solution: (You will need to optimize your antibody dilutions based on your results.)
 
@@ -211,7 +211,7 @@ Secondary Antibody is light sensitive, so keep it in a foil wrapper after prep. 
 11. Repeat Step 7 using 1X TBS instead of 1X TBS-T. (In different bucket)
 12. Transfer membrane protein side up to a pre-prepped transfer setup (foil for covering gel from light, and a Saranwrap layer on top of the foil for allowing the membrane to sit on. Pull saranwrap over top of the membrane ensuring that wrinkles and bubbles are kept to a minimum. Fold foil over the whole thing to protect the membrane from light while transferring to LiCor. Note: I did this step with the lab lights off and it turned out really good, maybe do this in a dark room/dark space?
 
-**Chemiluminescent Detection:**
+### Chemiluminescent Detection:
 
 Secondary Antibody solution: 
 Reagent | Volume/mass
