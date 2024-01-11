@@ -10,6 +10,20 @@ The purpose of this document is to provide a walkthrough of all steps needed to 
 
 **[Sample Preparations](#sample-preparations)**
 
+**[Gel Preparations](#gel-preparations)**
+
+**[Running the SDS-PAGE gel:](#running-the-sds-page-gel:)**
+
+**[Running the Transfer:](#running-the-transfer:)**
+
+**[Staining the Immunoblot:](#staining-the-immunoblot:)**
+
+**[Signal Detection:](#signal-detection:)** 
+
+**[Imaging:](#imaging)**
+
+**[Appendix 1: Total Protein Staining with LI-COR Revert 700 Dye](#appendix-1:-total-protein-staining-with-li-cor-revert-700-dye)**
+
 # Supplies:
 
 Item | Supplier | Item #
@@ -63,12 +77,15 @@ Sample prep:
 1.	Take OD of culture:
 * Dilute 100uL of O/N into 900uL 70% IO in an eppi tube, vortex, and transfer to a cuvette.
 * Divide produced OD by 0.1 to get total OD of the original culture.
-2.	Spin down 1mL of O/N culture into a 1.7mL tube (3min, 8,000 x g)
+2.	Pellet 1mL of O/N culture into a 1.7mL tube (3min, 8,000 x g)
 3.	Wash 2X with 1mL 1X TBS (1min, 8,000 x g)
 4.	Resuspend washed cells in 1% SDS solution ((OD/6) * 1,000 = uL SDS to resuspend in)
-* Remember to back-calculate from your dilution first!
+* Example:
+	* Measured OD: 0.44
+ 	* Actual OD: 0.44 / 0.1  = 4.4
+  	* ((4.4/6) * 1000) = 733 uL 1% SDS 
 5.	Allow cells to incubate at room temperature 5 minutes.
-6.	Spindown cells to remove cell debris (1min, 8,000 x g)
+6.	Pellet cells to remove cell debris (1min, 8,000 x g)
 7.	Remove supernatant to new tube (Liquid may be viscous/sticky, this is normal)
 8.	Dilute sample 1:1 with 2X Laemmli buffer w/ß-ME (You don’t need to use all of sample, 100uL is likely sufficient)
 * Note: This is a stopping point if you are mass-prepping samples. Make sure tubes are well mixed, and then store @ -20˚ C. When ready to run gels, thaw and then proceed with Step 9.
@@ -77,7 +94,7 @@ Sample prep:
 Notes:
 * If your strain of interest does not pellet well, you may need to increase the speed or time of centrifugation.
 
-## Protein Immunoblotting:
+# Gel Preparations 
 
 Chemical/Equipment Prep: 
 
@@ -99,9 +116,9 @@ Chemical/Equipment Prep:
 
 Note: If you are only running one gel, you need to have it in the back of the tank, prongs can’t be in the front.
 
-## Running the SDS-PAGE gel:
+# Running the SDS-PAGE gel:
 
-1.	Load the first lane with 5uL Thermo Scientific™ PageRuler™ Prestained 10-180kDa Protein Ladder.
+1.	Load the first lane with 5uL Thermo Scientific PageRuler Prestained 10-180 kDa Protein Ladder.
 2.	Transfer 20uL of each sample to respective gel lane (This can be optimized)
 3.	Place lid on tank and hook up to HC power supply
 4.	Run gel at 50V for 15 min, then increase power to 200V until dye front reaches the bottom of the gel (30 min)
@@ -109,7 +126,7 @@ Note: If you are only running one gel, you need to have it in the back of the ta
 6.	Take gel to the gel doc, make a DI water puddle and rest gel on that, then image with the UV-Stain free option. **Record the exposure time noted in image settings**
 7.	Rig buffer can be dumped down the drain.
 
-## Running the Immunoblot:
+# Running the Transfer:
 
 Chemical Prep: 
 
@@ -145,11 +162,12 @@ Immunoblot:
 
 # Day 3:
 
-## Staining the Immunoblot:
+# Staining the Immunoblot:
 
 Chemical Prep: (You will need to optimize your antibody dilutions based on your results.)
 
 Primary Antibody solution: (Prepare in 10mL conical, flip to mix multiple times)
+
 Reagent | Volume/mass
 ----|----
 1X TBS-T | 10 mL
@@ -166,15 +184,23 @@ Loading control Anti-RpoA Mouse IgG - 500 µg/mL | 2 uL (See note below on multi
 5. Repeat Step 2. (In same bucket)
 6. During wash steps, prepare the secondary antibody solution:
 
-## Fluorescent Westerns: 
+# Signal Detection: 
+
+Western blots can treated for signal detection in two ways, fluorescence and chemiluminescence. Fluorescence methods rely on secondary antibodies conjugated to a fluorophore, with the possibility of multiplexing (multiple secondary antibodies) different fluorophores for different targets simultaneously. The second method, chemiluminescence, relies on a secondary antibody conjugated to horseradish peroxidase (HRP) which reacts with a provided substrate to enable signal detection. Overall, the chemiluminescence method is more sensitive for signal detection, but quantification of the output signal can be challenging compared to fluorescence methods. Chemiluminescencent secondary antibodies also can never be multiplexed with fluorescence or other HRP secondary antibodies, and the immunoblot must be destained between each secondary antibody if you are testing for different targets.
+
+**Fluorescence Detection:**
 
 Secondary Antibody solution: (You will need to optimize your antibody dilutions based on your results.)
+
 Reagent | Volume/mass
 ----|----
 1X TBS-T | 10 ml
 Non-fat milk | 0.05g 
 LI-COR IRDye 800CW Goat anti-Species IgG 1000 µg/mL | 2uL
 LI-COR IRDye® 680RD Goat anti-Mouse IgG 1000 µg/mL | 2uL
+1% SDS | 100uL
+
+1% SDS is needed if using IR-Dye secondary and PVDF membrane.
 
 Secondary Antibody is light sensitive, so keep it in a foil wrapper after prep. (I prepared this solution ~3 min before use) Also, when doing fluorescent blots remember that your secondary antibodies must have different channels (600, 700, or 800 nm)
 
@@ -185,7 +211,7 @@ Secondary Antibody is light sensitive, so keep it in a foil wrapper after prep. 
 11. Repeat Step 7 using 1X TBS instead of 1X TBS-T. (In different bucket)
 12. Transfer membrane protein side up to a pre-prepped transfer setup (foil for covering gel from light, and a Saranwrap layer on top of the foil for allowing the membrane to sit on. Pull saranwrap over top of the membrane ensuring that wrinkles and bubbles are kept to a minimum. Fold foil over the whole thing to protect the membrane from light while transferring to LiCor. Note: I did this step with the lab lights off and it turned out really good, maybe do this in a dark room/dark space?
 
-## Chemiluminescent Westerns:
+**Chemiluminescent Detection:**
 
 Secondary Antibody solution: 
 Reagent | Volume/mass
@@ -204,7 +230,7 @@ Secondary Antibody is light sensitive, so keep it in a foil wrapper after prep. 
 13. Transfer membrane to a new clean bucket. Apply all 6mL of the SuperSignal mix to protein side of membrane by gently dropping all over the membrane, allow to sit for 5 minutes. (Do this in a darker room or under foil)
 14. Transfer membrane protein side up to a pre-prepped transfer setup (foil for covering gel from light, and a Saranwrap layer on top of the foil for allowing the membrane to sit on. Pull saranwrap over top of the membrane ensuring that wrinkles and bubbles are kept to a minimum. Fold foil over the whole thing to protect the membrane from light while transferring to LiCor. Note: I did this step with the lab lights off and it turned out really good, maybe do this in a dark room/dark space?
 
-## Imaging the Immunoblot:
+# Imaging
 
 1.  Take membrane in wrappings down to 3rd floor core room. LiCor is immediately to the right in the dark room. Login information should be on a post-it by the monitor.
 2. Open the orange image study app (in the bottom taskbar)
@@ -214,10 +240,11 @@ Secondary Antibody is light sensitive, so keep it in a foil wrapper after prep. 
 6. Do a first quick imaging using 30s exposure for both channels
 7. Do a higher detail imaging using longer 2-5 min exposure for both channels. 
 8. Tweak brightness then save a .png and export the image studio file .zip.
-* DO NOT FORGET TO EXPORT THE IMAGE STUDIO FILE.
-9. Save on a USB
+* DO NOT FORGET TO EXPORT THE IMAGE STUDIO FILE. IF YOU FORGET THIS STEP THE SYSTEM MAY LOSE YOUR DATA.
+9. Save on a USB and upload to lab database as soon as possible.
 
 # Appendix 1: Total Protein Staining with LI-COR Revert 700 Dye
+
 * This method is an alternative to using Stain-free gels and allows you to measure total protein levels on the same LI-COR machine as you use for final visualization. You can use this dye with IR-Dye 680RD (700nm) and 800CW (800nm) secondary antibodies, but you will need to destain the membrane before putting it into the overnight blocking step. This protocol uses very little stain and wash solution volumes from a kit, so pouches are needed to keep the membrane in contact with solutions.
 1. After completing the transfer process, immediately transfer the clipped membrane (protein side up) onto a dry piece of filter paper. Incubate at RT for 1 hour to dry the membrane.
 2. After allowing the membrane to dry, wet the membrane with 100% methanol in a square plastic bin, for 30 s. 
