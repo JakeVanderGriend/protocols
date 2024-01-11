@@ -22,7 +22,7 @@ The purpose of this document is to provide a walkthrough of all steps needed to 
 
 **[Imaging](#imaging)**
 
-**[Appendix 1: Total Protein Staining with LI-COR Revert 700 Dye](#appendix-1:-total-protein-staining-with-li-cor-revert-700-dye)**
+**[Appendix 1: Total Protein Staining with LI-COR Revert 700 Dye](#appendix-1-total-protein-staining-with-li-cor-revert-700-dye)**
 
 # Supplies:
 
