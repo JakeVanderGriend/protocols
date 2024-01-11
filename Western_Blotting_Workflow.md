@@ -12,13 +12,13 @@ The purpose of this document is to provide a walkthrough of all steps needed to 
 
 **[Gel Preparations](#gel-preparations)**
 
-**[Running the SDS-PAGE gel:](#running-the-sds-page-gel:)**
+**[Running the SDS-PAGE gel:](#running-the-sds-page-gel)**
 
-**[Running the Transfer:](#running-the-transfer:)**
+**[Running the Transfer:](#running-the-transfer)**
 
-**[Staining the Immunoblot:](#staining-the-immunoblot:)**
+**[Staining the Immunoblot:](#staining-the-immunoblot)**
 
-**[Signal Detection:](#signal-detection:)** 
+**[Signal Detection:](#signal-detection)** 
 
 **[Imaging:](#imaging)**
 
